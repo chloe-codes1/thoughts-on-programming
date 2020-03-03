@@ -1,4 +1,4 @@
-# Recursion :  What is Recursion and When Should We Use It?
+# What is Recursion and When Should We Use It?
 
 <br>
 
@@ -6,18 +6,18 @@
 
 ## What is Recursion?
 
-If a function inside of its definition calls itself, that is recursion.
+- If a function inside of its definition calls itself, that is recursion.
 
-Recursion happens when a function calls itself within its own definition.
+- Recursion happens when a function calls itself within its own definition.
 
-It calls itself over and over again until a base condition is met that breaks the loop.
+- It calls itself over and over again until a base condition is met that breaks the loop.
 
 <br>
 
 ### Recursive Function
 
-- base case
-- recursive call
+1. base case
+2. recursive call
 
 <br>
 

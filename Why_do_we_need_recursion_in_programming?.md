@@ -47,7 +47,7 @@ A special form of recursion where the last operation of a function is a recursiv
 
 <br>
 
-#### Non-tail recursive function
+#### 1. Non-tail recursive function
 
 ex) 
 
@@ -62,7 +62,7 @@ The function is not tail recursive since the value returned by *non_tail(n-1)* i
 
 <br>
 
-#### Tail recursive function
+#### 2. Tail recursive function
 
 ex)
 
@@ -100,7 +100,7 @@ def fact(n):
 
 <br>
 
-#### Cons
+### Cons
 
 1. uses more memory
 2. can be slow

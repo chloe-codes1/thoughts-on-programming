@@ -2,7 +2,7 @@
 
 > Just wanted to clarify (because I got confused)
 >
-> [References]([https://www.promptcloud.com/blog/data-scraping-vs-data-crawling/#:~:text=Data%20Crawling%20Meaning%20is%20to,(not%20necessarily%20the%20web).](https://www.promptcloud.com/blog/data-scraping-vs-data-crawling/#:~:text=Data Crawling Meaning is to,(not necessarily the web).)
+> [References]([https://www.promptcloud.com/blog/data-scraping-vs-data-crawling/#:~:text=Data%20Crawling%20Meaning%20is%20to,(not%20necessarily%20the%20web).)
 
 <br>
 
